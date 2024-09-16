@@ -260,7 +260,7 @@ const foodItem= [
     name: 'Veg Pakora',
     category : 'vegetable',
     rating : 4.3,
-    price: 30'pc',
+    price: 30,
     img: 'images/vegetable/vegetable-pakora.jpg',
     quantity: 1
 },
@@ -269,7 +269,7 @@ const foodItem= [
     name: 'Momos',
     category : 'chinese',
     rating : 4.3,
-    price: 80'half',
+    price: '80/12pc',
     img: 'images/chinese/mmos.jpg',
     quantity: 1
 },
